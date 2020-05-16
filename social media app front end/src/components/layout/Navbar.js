@@ -31,7 +31,7 @@ class Navbar extends Component {
           ) : (
             <Fragment>
               <Button color='inherit' component={Link} to='/login'>
-                Loginyo
+                Login
               </Button>
               <Button color='inherit' component={Link} to='/'>
                 Home
